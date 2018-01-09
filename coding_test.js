@@ -154,5 +154,4 @@ class Counter {
   PI = total / results.length;
 
   console.log('Average of PI over 10 samples:', PI);
-  
 })();
